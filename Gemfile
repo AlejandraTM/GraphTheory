@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) { |repo_name| "https://github.com/AlejandraTM/GraphTheory" }
+git_source(:github) { |repo_name| "https://github.com/jekyll/minima" }
 
 # gem "rails"
 
