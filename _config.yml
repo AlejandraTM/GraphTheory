@@ -1,4 +1,12 @@
+title: Teoría de Grafos
+author:
+  name: Alejandra T. Manotas
+  email: alejatorresm@gmail.com
+
+show_downloads: true
+
 theme: minima
 
-title: [Teoría de Grafos]
-show_downloads: true
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
