@@ -12,3 +12,6 @@
 
 📑 En este taller se repasaron los temas correspondientes a grafos dirigidos y no dirigidos con pesos, con el objeto de encontrar el camino más cortos en pares de vértices, y árboles, poniendo en practica los métodos de busqueda en anchura y busqueda en profundidad.
  * [Taller 4](https://drive.google.com/file/d/1sdwtmRHhpxt5fvsSwcEEz62JJilZo8je/view?usp=sharing): PDF
+
+📑 Aquí construimos el algoritmo de Dirijkstra para determinar la ruta más corta dando un vértice de inicio y el algoritmo de Floyd- Warshall para encontrar la ruta más corta dado cualquier par de vértices.
+ * [Taller 5](https://alejandratm.github.io/GraphTheory/Taller-5/Algoritmo-Dirijkstra.html): Resuelto en Python.
