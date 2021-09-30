@@ -1,4 +1,16 @@
-## 🇨🇴 Talleres 
+## 🇲🇽 Notas de clase (UNAM)
+
+ * [Clase 2](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
+ * [Clase 3](https://drive.google.com/file/d/1Ud6PdUpsKodeZ_z7Mo3D1wkTJ8nCEQVm/view?usp=sharing)
+ * [Clase 4](https://drive.google.com/file/d/1EYxhDvPuvlwQQon3ZjnxXVzI0SQQ1rDZ/view?usp=sharing)
+ * [Clase 5](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
+ * [Clase 6](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
+ * [Clase 7](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
+ * [Clase 8](https://drive.google.com/file/d/1Ugz_wgiYNDK79Yoxh3jlMnN2JzMDQqgw/view?usp=sharing)
+ * [Clase 9](https://drive.google.com/file/d/14oOyw39_JoQf9JoDaSvJNJQEU3q63SF-/view?usp=sharing)
+ * [Clase 10](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
+
+## 🇨🇴 Talleres (FUNKL)
 
 📑 Para este trabajo se estudiaron las construcciones básicas de grafos dirigidos y no dirigidos en Python (Networkx) y en SageMath. También se repasaron temas como: isomorfismo de grafos, subgrafo recubridor (spanning tree), subgrafo inducido, y grafo ponderado.
 
