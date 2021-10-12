@@ -12,7 +12,7 @@
  * [Clase 9](https://drive.google.com/file/d/14oOyw39_JoQf9JoDaSvJNJQEU3q63SF-/view?usp=sharing)
  * [Clase 10](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
 
-## 🇨🇴 Talleres (FUNKL)
+## 🇨🇴 Talleres (FUKL)
 
 📑 Para este trabajo se estudiaron las construcciones básicas de grafos dirigidos y no dirigidos en Python (Networkx) y en SageMath. También se repasaron temas como: isomorfismo de grafos, subgrafo recubridor (spanning tree), subgrafo inducido, y grafo ponderado.
 
