@@ -10,7 +10,7 @@
  * [Clase 7](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
  * [Clase 8](https://drive.google.com/file/d/1Ugz_wgiYNDK79Yoxh3jlMnN2JzMDQqgw/view?usp=sharing)
  * [Clase 9](https://drive.google.com/file/d/14oOyw39_JoQf9JoDaSvJNJQEU3q63SF-/view?usp=sharing)
- * [Clase 10](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
+ * [Clase 10](https://drive.google.com/file/d/1kPa0O2tPQGkh_w6gWHgEIRvEIiOJC-lz/view?usp=sharing)
 
 ## 🇨🇴 Talleres (FUKL)
 
