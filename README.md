@@ -2,15 +2,64 @@
 
 ## 🇲🇽 Notas de clase (UNAM)
 
- * [Clase 2](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
- * [Clase 3](https://drive.google.com/file/d/1Ud6PdUpsKodeZ_z7Mo3D1wkTJ8nCEQVm/view?usp=sharing)
- * [Clase 4](https://drive.google.com/file/d/1EYxhDvPuvlwQQon3ZjnxXVzI0SQQ1rDZ/view?usp=sharing)
- * [Clase 5](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
- * [Clase 6](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
- * [Clase 7](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
- * [Clase 8](https://drive.google.com/file/d/1Ugz_wgiYNDK79Yoxh3jlMnN2JzMDQqgw/view?usp=sharing)
- * [Clase 9](https://drive.google.com/file/d/14oOyw39_JoQf9JoDaSvJNJQEU3q63SF-/view?usp=sharing)
- * [Clase 10](https://drive.google.com/file/d/1kPa0O2tPQGkh_w6gWHgEIRvEIiOJC-lz/view?usp=sharing)
+ * [Clase 2:](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
+   * Gráficas k-regulares
+   * Subgráficas
+   * Gráfica inducida
+   * Subgráfica generadora
+   * Gráficas autocomplementarias
+   * Caminos en gráficas
+ * [Clase 3:](https://drive.google.com/file/d/1Ud6PdUpsKodeZ_z7Mo3D1wkTJ8nCEQVm/view?usp=sharing)
+   * Conexidad y componentes conexas
+   * Vértices de corte y puentes
+   * Árboles
+   * Distancia entre vértices
+ * [Clase 4:](https://drive.google.com/file/d/1EYxhDvPuvlwQQon3ZjnxXVzI0SQQ1rDZ/view?usp=sharing)
+   * Bloques
+ * [Clase 5:](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
+   * Operaciones en gráficas: Unión, producto cuadro, producto cruz, producto fuerte y producto lexicográfico
+   * n-cubo
+   * Gráfica de líneas
+ * [Clase 6:](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
+   * Clanes y gráfica de clases
+   * Bloque de una gráfica
+ * [Clase 7:](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
+   * Gráfica de bloques
+   * Gráfica de bloques y cortes
+   * Homomorfiamo de gráficas (Tipo I y II)
+   * Isomorfismo y automorfismo de gráficas
+   * Grupo de automorfiamos de una gráfica
+ * [Clase 8:](https://drive.google.com/file/d/1Ugz_wgiYNDK79Yoxh3jlMnN2JzMDQqgw/view?usp=sharing)
+   * Gráfica de Cayley
+   * Recorridos en gráficas: Gráfica de Euler
+ * [Clase 9:](https://drive.google.com/file/d/14oOyw39_JoQf9JoDaSvJNJQEU3q63SF-/view?usp=sharing)
+   * Problema del cartero chino
+   * Recorridos en gráficas: Gráfica hamiltoniana
+   * Problema del movimiento del caballo (ajedrez)
+ * [Clase 10:](https://drive.google.com/file/d/1kPa0O2tPQGkh_w6gWHgEIRvEIiOJC-lz/view?usp=sharing)
+   * K-cerradura
+   * Gráfica hamiltonianamente conexa
+   * Problema del agente viajero
+ * [Clases 12 y 13:](https://drive.google.com/file/d/1r0atrIUHy-UPqhIRcn_k7_QTLMbqgHt5/view?usp=sharing)
+   * Planaridad (gráficas planas y gráficas aplanables)
+   * Gráfica dual
+   * Teorema de Euler (Fórmula de Euler)
+   * Gráfica plana máxima
+   * Menor de una gráfica
+   * Subdivisión de una gráfica
+   * Gráficas homeomorfas
+   * Teorema de Kuratowski (Enunciado)
+   * Gráfica de Heawood
+ * [Clase 14:](https://drive.google.com/file/d/1UmNEeHPobWyBae0sW5yGMMQ_dPSh9T2H/view?usp=sharing)
+   * Teorema de Kuratowski (Demostración)
+ * [Clases 15 y 16:](https://drive.google.com/file/d/1CwrBZ5hu4NQu5lPe7zQcPRIUMOfi2HoC/view?usp=sharing)
+   * Gráfica 3-conexa
+   * Encaje de 2-celdas
+   * Género de una superficie y género de una gráfica
+   * Género mínimo y género máximo
+   * Característica de Euler
+   * Número de cruce de una gráfica
+   * Número de cruce rectilineo de una gráfica
 
 ## 🇨🇴 Talleres (FUKL)
 
