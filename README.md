@@ -21,7 +21,7 @@
    * n-cubo
    * Gráfica de líneas
  * [Clase 6:](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
-   * Clanes y gráfica de clases
+   * Clanes (o clique) y gráfica de clanes
    * Bloque de una gráfica
  * [Clase 7:](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
    * Gráfica de bloques
