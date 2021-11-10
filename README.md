@@ -60,6 +60,30 @@
    * Característica de Euler
    * Número de cruce de una gráfica
    * Número de cruce rectilineo de una gráfica
+ * [Clase 17:](https://drive.google.com/file/d/1RKvSEYK9nRPQjmTBZhnw0o5FehNxN0HA/view?usp=sharing)
+   * Coloración de gráficas
+   * Coloración propia
+   * Número crimático, acromático y pseudoacromático
+   * Coloración completa
+   * Clase cromática
+   * Teorema de Brooks
+ * [Clase 18:](https://drive.google.com/file/d/1DEIAgqPFSe9eaeYP47HDftqJmR5gPXIt/view?usp=sharing)
+   * Número de clan
+   * k-regiones coloreables
+ * [Clase 19:](https://drive.google.com/file/d/12fURt8zEIfs5OjNsdd7DCM2zdgyMNgHJ/view?usp=sharing)
+    * Gráfica dual en una superficie
+    * Teorema de los 5 colores
+    * Teorema de los 4 colores
+    * Teorema de Heawood
+ * [Clase 20:](https://drive.google.com/file/d/1RQmn6To1DN8_m3fBMiTqwkJv0frNVA3u/view?usp=sharing)
+   * Polinimio cromático
+ * [Clase 21:](https://drive.google.com/file/d/1xAf8H3AciVRmpb1_wEUc-HgIrJdMQHwr/view?usp=sharing)
+   * Caracteristicas del polinomio cromático
+   * Coloración de aristas
+   * Índice cromático
+   * Teorema de Vizing y grafos tipo I y II
+   * Cuello de una gráfica y Snacks
+   * Número cromático total
 
 ## 🇨🇴 Talleres (FUKL)
 
