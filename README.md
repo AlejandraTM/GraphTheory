@@ -2,27 +2,39 @@
 
 ## 🇲🇽 Notas de clase (UNAM)
 
+ * [Clase 1:]()
+   * Definición de gráfica, orden y tamaño.
+   * Grado de vertices.
+   * Grado máximo y mínimo de una gráfica.
+   * Isomorfismo de grafos.
+   * Graficas bipartitas y otros tipos de gráficas importantes.
+   * Grafica complemento.
+   * Matris de adyacencia e incidencia.
+  
  * [Clase 2:](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
-   * Gráficas k-regulares
-   * Subgráficas
-   * Gráfica inducida
-   * Subgráfica generadora
-   * Gráficas autocomplementarias
-   * Caminos en gráficas
+   * Gráficas k-regulares.
+   * Subgráficas, subgraficas inducida y generadora.
+   * Gráficas autocomplementarias.
+   * Caminos en gráficas.
+   
  * [Clase 3:](https://drive.google.com/file/d/1Ud6PdUpsKodeZ_z7Mo3D1wkTJ8nCEQVm/view?usp=sharing)
-   * Conexidad y componentes conexas
-   * Vértices de corte y puentes
-   * Árboles
-   * Distancia entre vértices
+   * Conexidad y componentes conexas.
+   * Vértices de corte y puentes.
+   * Árboles.
+   * Definición de distancia, diámetro y cuello.
+   
  * [Clase 4:](https://drive.google.com/file/d/1EYxhDvPuvlwQQon3ZjnxXVzI0SQQ1rDZ/view?usp=sharing)
-   * Bloques
+   * Bloques.
+   
  * [Clase 5:](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
-   * Operaciones en gráficas: Unión, producto cuadro, producto cruz, producto fuerte y producto lexicográfico
-   * n-cubo
-   * Gráfica de líneas
+   * Operaciones en gráficas: Unión, producto cuadro, producto cruz, producto fuerte y producto lexicográfico.
+   * n-cubo.
+   * Gráfica de líneas (primera parte).
+   
  * [Clase 6:](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
    * Clanes (o clique) y gráfica de clanes
    * Bloque de una gráfica
+   
  * [Clase 7:](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
    * Gráfica de bloques
    * Gráfica de bloques y cortes
