@@ -2,7 +2,7 @@
 
 ## 🇲🇽 Notas de clase (UNAM)
 
- * 🎲 [Clase 1:](https://drive.google.com/file/d/1l6mkRaLTsJb7Ubt39TjzltG_YRZrjAvL/view?usp=share_link)
+  🎲 [Clase 1:](https://drive.google.com/file/d/1l6mkRaLTsJb7Ubt39TjzltG_YRZrjAvL/view?usp=share_link)
    * Definición de gráfica, orden y tamaño.
    * Grado de vértices.
    * Grado máximo y mínimo de una gráfica.
@@ -10,23 +10,23 @@
    * Tipos importantes de gráficas (Completas, bipartitas, ciclos, caminos, regulares y la gráfica de Petersen).
    * Matriz de adyacencia e incidencia.
   
- * 🎲 [Clase 2:](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
+  🎲 [Clase 2:](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
    * Subgráficas, subgraficas inducida y generadora.
    * Gráficas autocomplementarias.
    * Caminos en gráficas (walk, trail, and path).
    
- * 🎲 [Clase 3:](https://drive.google.com/file/d/1Ud6PdUpsKodeZ_z7Mo3D1wkTJ8nCEQVm/view?usp=sharing)
+  🎲 [Clase 3:](https://drive.google.com/file/d/1Ud6PdUpsKodeZ_z7Mo3D1wkTJ8nCEQVm/view?usp=sharing)
    * Conexidad y componentes conexas.
    * Vértices de corte y puentes.
    * Árboles.
    * Definición de distancia, diámetro y cuello.
    
- * 🎲 [Clase 4:](https://drive.google.com/file/d/1EYxhDvPuvlwQQon3ZjnxXVzI0SQQ1rDZ/view?usp=sharing)
+  🎲 [Clase 4:](https://drive.google.com/file/d/1EYxhDvPuvlwQQon3ZjnxXVzI0SQQ1rDZ/view?usp=sharing)
    * Operaciones en gráficas: Unión, producto cuadro, producto cruz, producto fuerte y producto lexicográfico.
    * n-cubo.
    * Bloques.
    
- * 🎲 [Clase 5:](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
+  🎲 [Clase 5:](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
    * Gráfica de líneas.
    
  * [Clase 6:](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
