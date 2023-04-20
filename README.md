@@ -39,37 +39,42 @@
    * Homomorfiamo de gráficas (Tipo I y II)
    * Isomorfismo y automorfismo de gráficas
    * Grupo de automorfiamos de una gráfica
- * [Clase 8:](https://drive.google.com/file/d/1Ugz_wgiYNDK79Yoxh3jlMnN2JzMDQqgw/view?usp=sharing)
    * Gráfica de Cayley
-   * Recorridos en gráficas: Gráfica de Euler
- * [Clase 9:](https://drive.google.com/file/d/14oOyw39_JoQf9JoDaSvJNJQEU3q63SF-/view?usp=sharing)
-   * Problema del cartero chino
+   
+  🎲 [Clase 8 y 9:](https://drive.google.com/file/d/1Ugz_wgiYNDK79Yoxh3jlMnN2JzMDQqgw/view?usp=sharing)
+   * Recorridos en gráficas: Gráfica de Euler.
+   * El problema del cartero chino.
+   
+  🎲 [Clase 10:](https://drive.google.com/file/d/1kPa0O2tPQGkh_w6gWHgEIRvEIiOJC-lz/view?usp=sharing)
    * Recorridos en gráficas: Gráfica hamiltoniana
    * Problema del movimiento del caballo (ajedrez)
- * [Clase 10:](https://drive.google.com/file/d/1kPa0O2tPQGkh_w6gWHgEIRvEIiOJC-lz/view?usp=sharing)
+   * Teorema de Ore
    * K-cerradura
    * Gráfica hamiltonianamente conexa
    * Problema del agente viajero
- * [Clases 12 y 13:](https://drive.google.com/file/d/1r0atrIUHy-UPqhIRcn_k7_QTLMbqgHt5/view?usp=sharing)
+   
+  🎲 [Clases 12 y 13:](https://drive.google.com/file/d/1r0atrIUHy-UPqhIRcn_k7_QTLMbqgHt5/view?usp=sharing)
    * Planaridad (gráficas planas y gráficas aplanables)
    * Gráfica dual
    * Teorema de Euler (Fórmula de Euler)
    * Gráfica plana máxima
    * Menor de una gráfica
    * Subdivisión de una gráfica
+ 
+  🎲 [Clase 14:](https://drive.google.com/file/d/1UmNEeHPobWyBae0sW5yGMMQ_dPSh9T2H/view?usp=sharing)
    * Gráficas homeomorfas
-   * Teorema de Kuratowski (Enunciado)
+   * Teorema de Kuratowski 
    * Gráfica de Heawood
- * [Clase 14:](https://drive.google.com/file/d/1UmNEeHPobWyBae0sW5yGMMQ_dPSh9T2H/view?usp=sharing)
-   * Teorema de Kuratowski (Demostración)
- * [Clases 15 y 16:](https://drive.google.com/file/d/1CwrBZ5hu4NQu5lPe7zQcPRIUMOfi2HoC/view?usp=sharing)
    * Gráfica 3-conexa
+   
+  🎲 [Clases 15 y 16:](https://drive.google.com/file/d/1CwrBZ5hu4NQu5lPe7zQcPRIUMOfi2HoC/view?usp=sharing)
    * Encaje de 2-celdas
    * Género de una superficie y género de una gráfica
    * Género mínimo y género máximo
    * Característica de Euler
    * Número de cruce de una gráfica
    * Número de cruce rectilineo de una gráfica
+   
  * [Clase 17:](https://drive.google.com/file/d/1RKvSEYK9nRPQjmTBZhnw0o5FehNxN0HA/view?usp=sharing)
    * Coloración de gráficas
    * Coloración propia
