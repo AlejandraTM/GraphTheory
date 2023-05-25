@@ -75,39 +75,42 @@
    * Número de cruce de una gráfica
    * Número de cruce rectilineo de una gráfica
    
- * [Clase 17:](https://drive.google.com/file/d/1RKvSEYK9nRPQjmTBZhnw0o5FehNxN0HA/view?usp=sharing)
+ * [Clase 17 y 18:](https://drive.google.com/file/d/1RKvSEYK9nRPQjmTBZhnw0o5FehNxN0HA/view?usp=sharing)
    * Coloración de gráficas
    * Coloración propia
    * Número crimático, acromático y pseudoacromático
    * Coloración completa
    * Clase cromática
    * Teorema de Brooks
- * [Clase 18:](https://drive.google.com/file/d/1DEIAgqPFSe9eaeYP47HDftqJmR5gPXIt/view?usp=sharing)
    * Número de clan
-   * k-regiones coloreables
- * [Clase 19:](https://drive.google.com/file/d/12fURt8zEIfs5OjNsdd7DCM2zdgyMNgHJ/view?usp=sharing)
-    * Gráfica dual en una superficie
-    * Teorema de los 5 colores
-    * Teorema de los 4 colores
-    * Teorema de Heawood
- * [Clase 20:](https://drive.google.com/file/d/1RQmn6To1DN8_m3fBMiTqwkJv0frNVA3u/view?usp=sharing)
+   * Gráfica de Grötzsch
+   
+ * [Clase 19, 20 y 21:](https://drive.google.com/file/d/1RQmn6To1DN8_m3fBMiTqwkJv0frNVA3u/view?usp=sharing)
+   * Teorema de los 5 colores
+   * Teorema de los 4 colores
+   * Teorema de Heawood
    * Polinimio cromático
    * Caracteristicas del polinomio cromático
- * [Clase 21:](https://drive.google.com/file/d/1xAf8H3AciVRmpb1_wEUc-HgIrJdMQHwr/view?usp=sharing)
+   * k-regiones coloreables
+   * Gráfica dual en una superficie
    * Coloración de aristas
    * Índice cromático
    * Teorema de Vizing y grafos tipo I y II
    * Cuello de una gráfica y Snacks
    * Número cromático total
+   * Número de independencia
+   
  * [Clases 22 y 23](https://drive.google.com/file/d/1hobRifMRNIDz5QxbfOe1_92CrIW6dM1Z/view?usp=sharing)
-   * Teoría extremal de gráfica
+    * Teoría extremal de gráfica
     * Número de Turán
     * Gráfica k-partita completa (casi regular)
     * Teorema de Turán
     * Número de Ramsey (Distintas versiones)
     * Teorema de Chvátal
+    * Número de Ramsey bipartita
+    
  * [Clae 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=sharing)
-   * Matching o apareamiento
+    * Matching o apareamiento
     * Apareamiento, vértices M-saturados y apareamientos perfectos y máximos
     * Trayectorias M-alternantes
     * Apareamiento M-aumentante
