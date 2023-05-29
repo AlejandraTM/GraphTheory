@@ -2,15 +2,13 @@
 
 ## 🇲🇽 Notas de clase (UNAM)
 
-  🎲 [Clase 1:](https://drive.google.com/file/d/1l6mkRaLTsJb7Ubt39TjzltG_YRZrjAvL/view?usp=share_link)
+  🎲 [Clase 1 y 2:](https://drive.google.com/file/d/1l6mkRaLTsJb7Ubt39TjzltG_YRZrjAvL/view?usp=share_link)
    * Definición de gráfica, orden y tamaño.
    * Grado de vértices.
    * Grado máximo y mínimo de una gráfica.
    * Isomorfismo de grafos.
    * Tipos importantes de gráficas (Completas, bipartitas, ciclos, caminos, regulares y la gráfica de Petersen).
    * Matriz de adyacencia e incidencia.
-  
-  🎲 [Clase 2:](https://drive.google.com/file/d/1ZyRtFIFMhyaQy2iJ01FRFmUM929OqOeF/view?usp=sharing)
    * Subgráficas, subgraficas inducida y generadora.
    * Gráficas autocomplementarias.
    * Caminos en gráficas (walk, trail, and path).
@@ -29,13 +27,13 @@
   🎲 [Clase 5:](https://drive.google.com/file/d/1BX4TrAo8xXaqWl8WpXxGCintCRK2jQew/view?usp=sharing)
    * Gráfica de líneas.
    
- * [Clase 6:](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
-   * Clanes (o clique) y gráfica de clanes
-   * Bloque de una gráfica
+  🎲 [Clase 6:](https://drive.google.com/file/d/1c9J-ihtGtJ3RzYTf8Z99HCCAtb0oWttg/view?usp=sharing)
+   * Clanes (o clique) y gráfica de clanes.
+   * Bloque de una gráfica.
+   * Gráfica de bloques.
+   * Gráfica de bloques y cortes.
    
  * [Clase 7:](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
-   * Gráfica de bloques
-   * Gráfica de bloques y cortes
    * Homomorfiamo de gráficas (Tipo I y II)
    * Isomorfismo y automorfismo de gráficas
    * Grupo de automorfiamos de una gráfica
