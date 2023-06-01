@@ -33,7 +33,7 @@
    * Gráfica de bloques.
    * Gráfica de bloques y cortes.
    
- * [Clase 7:](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
+  🎲 [Clase 7:](https://drive.google.com/file/d/1ioyL3rvelVevIv0u6dAVVRvttnwmnBkc/view?usp=sharing)
    * Homomorfiamo de gráficas (Tipo I y II)
    * Isomorfismo y automorfismo de gráficas
    * Grupo de automorfiamos de una gráfica
@@ -83,7 +83,7 @@
    * Número de clan
    * Gráfica de Grötzsch
    
- * [Clase 19, 20 y 21:](https://drive.google.com/file/d/1RQmn6To1DN8_m3fBMiTqwkJv0frNVA3u/view?usp=sharing)
+  🎲 [Clase 19, 20 y 21:](https://drive.google.com/file/d/14KCQlzk7oZCmEyuWz-KwWM6ZUEv3LDkt/view?usp=sharing)
    * Teorema de los 5 colores
    * Teorema de los 4 colores
    * Teorema de Heawood
