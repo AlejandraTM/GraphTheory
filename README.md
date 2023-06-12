@@ -99,13 +99,13 @@
    * Número de independencia
    
   🎲 [Clases 22 y 23](https://drive.google.com/file/d/1hobRifMRNIDz5QxbfOe1_92CrIW6dM1Z/view?usp=sharing)
-    * Teoría extremal de gráfica
-    * Número de Turán
-    * Gráfica k-partita completa (casi regular)
-    * Teorema de Turán
-    * Número de Ramsey (Distintas versiones)
-    * Teorema de Chvátal
-    * Número de Ramsey bipartita
+   * Teoría extremal de gráfica
+   * Número de Turán
+   * Gráfica k-partita completa (casi regular)
+   * Teorema de Turán
+   * Número de Ramsey (Distintas versiones)
+   * Teorema de Chvátal
+   * Número de Ramsey bipartita
     
  * [Clae 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=sharing)
     * Matching o apareamiento
@@ -119,14 +119,14 @@
     * r-factor y r-factorización de una gráfica (1-factorización)
     * Factorización hamiltoniana
     
-   🎲 [Clase 26](https://drive.google.com/file/d/1mN-eQAb2GIBHABFRsUdXN7kFkrxnnF0U/view?usp=sharing)
-    * Grafos dirigidos
-    * Gráfica subyacente
-    * Conexidad
-    * Gráfica de condensación
-    * Extrado, ingrado, pozo y fuente
-    * Digráfica transitiva
-    * Matriz de adyacencia
-    * Orientación de gráficas
-    * Antotrayectorias y anticonexidad
-    * Torneos, marcadores y sucesión de marcadores
+  🎲 [Clase 26](https://drive.google.com/file/d/1mN-eQAb2GIBHABFRsUdXN7kFkrxnnF0U/view?usp=sharing)
+   * Grafos dirigidos
+   * Gráfica subyacente
+   * Conexidad
+   * Gráfica de condensación
+   * Extrado, ingrado, pozo y fuente
+   * Digráfica transitiva
+   * Matriz de adyacencia
+   * Orientación de gráficas
+   * Antotrayectorias y anticonexidad
+   * Torneos, marcadores y sucesión de marcadores
