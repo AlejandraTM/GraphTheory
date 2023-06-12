@@ -120,14 +120,13 @@
     * Factorización hamiltoniana
     
   🎲 [Clase 26](https://drive.google.com/file/d/1mN-eQAb2GIBHABFRsUdXN7kFkrxnnF0U/view?usp=sharing)
-  
-    * Grafos dirigidos.
-    * Gráfica subyacente.
-    * Conexidad.
-    * Gráfica de condensación.
-    * Extrado, ingrado, pozo y fuente.
-    * Digráfica transitiva.
-    * Mateiz de adyacencia.
-    * Orientación de gráficas.
-    * Antotrayectorias y anticonexidad.
-    * Torneos, marcadores y sucesión de marcadores.
+    * Grafos dirigidos
+    * Gráfica subyacente
+    * Conexidad
+    * Gráfica de condensación
+    * Extrado, ingrado, pozo y fuente
+    * Digráfica transitiva
+    * Matriz de adyacencia
+    * Orientación de gráficas
+    * Antotrayectorias y anticonexidad
+    * Torneos, marcadores y sucesión de marcadores
