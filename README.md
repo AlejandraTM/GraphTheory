@@ -120,6 +120,7 @@
     * Factorización hamiltoniana
     
   🎲 [Clase 26](https://drive.google.com/file/d/1mN-eQAb2GIBHABFRsUdXN7kFkrxnnF0U/view?usp=sharing)
+  
     * Grafos dirigidos.
     * Gráfica subyacente.
     * Conexidad.
