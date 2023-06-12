@@ -73,7 +73,7 @@
    * Número de cruce de una gráfica
    * Número de cruce rectilineo de una gráfica
    
- * [Clase 17 y 18:](https://drive.google.com/file/d/1RKvSEYK9nRPQjmTBZhnw0o5FehNxN0HA/view?usp=sharing)
+ 🎲 [Clase 17 y 18:](https://drive.google.com/file/d/1RKvSEYK9nRPQjmTBZhnw0o5FehNxN0HA/view?usp=sharing)
    * Coloración de gráficas
    * Coloración propia
    * Número crimático, acromático y pseudoacromático
@@ -98,7 +98,7 @@
    * Número cromático total
    * Número de independencia
    
- * [Clases 22 y 23](https://drive.google.com/file/d/1hobRifMRNIDz5QxbfOe1_92CrIW6dM1Z/view?usp=sharing)
+ 🎲 [Clases 22 y 23](https://drive.google.com/file/d/1hobRifMRNIDz5QxbfOe1_92CrIW6dM1Z/view?usp=sharing)
     * Teoría extremal de gráfica
     * Número de Turán
     * Gráfica k-partita completa (casi regular)
