@@ -107,7 +107,7 @@
    * Teorema de Chvátal
    * Número de Ramsey bipartita
     
-  🎲 [Clase 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=drive_link)
+  🎲 [Clase 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=sharing)
     * Matching o apareamiento
     * Apareamiento, vértices M-saturados y apareamientos perfectos y máximos
     * Trayectorias M-alternantes
