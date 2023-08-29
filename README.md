@@ -108,17 +108,17 @@
    * Número de Ramsey bipartita
     
   🎲 [Clase 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=sharing)
-    * Matching o apareamiento
-    * Apareamiento, vértices M-saturados y apareamientos perfectos y máximos
-    * Trayectorias M-alternantes
-    * Apareamiento M-aumentante
-    * Teorema de Berge
-    * Teorema de Hall, sistema de representantes y versión conjuntista del teorema de Hall
-    * Teorema de Tutte
-    * Teorema de Petersen
-    * Factor de una gráfica y factorización de una gráfica
-    * r-factor y r-factorización de una gráfica (1-factorización)
-    * Factorización hamiltoniana
+   * Matching o apareamiento
+   * Apareamiento, vértices M-saturados y apareamientos perfectos y máximos
+   * Trayectorias M-alternantes
+   * Apareamiento M-aumentante
+   * Teorema de Berge
+   * Teorema de Hall, sistema de representantes y versión conjuntista del teorema de Hall
+   * Teorema de Tutte
+   * Teorema de Petersen
+   * Factor de una gráfica y factorización de una gráfica
+   * r-factor y r-factorización de una gráfica (1-factorización)
+   * Factorización hamiltoniana
     
   🎲 [Clase 26](https://drive.google.com/file/d/1mN-eQAb2GIBHABFRsUdXN7kFkrxnnF0U/view?usp=sharing)
    * Grafos dirigidos
