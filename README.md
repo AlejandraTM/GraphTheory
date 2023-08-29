@@ -107,14 +107,15 @@
    * Teorema de Chvátal
    * Número de Ramsey bipartita
     
- * [Clae 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=sharing)
+  🎲 [Clase 24 y 25](https://drive.google.com/file/d/1CJ65jqUrkISbsa4qkMFIMm0KOTGPuVXE/view?usp=drive_link)
     * Matching o apareamiento
     * Apareamiento, vértices M-saturados y apareamientos perfectos y máximos
     * Trayectorias M-alternantes
     * Apareamiento M-aumentante
-    * Teorema de Hall
-    * Sistema de representantes y versión conjuntista del teorema de Hall
+    * Teorema de Berge
+    * Teorema de Hall, sistema de representantes y versión conjuntista del teorema de Hall
     * Teorema de Tutte
+    * Teorema de Petersen
     * Factor de una gráfica y factorización de una gráfica
     * r-factor y r-factorización de una gráfica (1-factorización)
     * Factorización hamiltoniana
@@ -130,3 +131,17 @@
    * Orientación de gráficas
    * Antotrayectorias y anticonexidad
    * Torneos, marcadores y sucesión de marcadores
+
+  🎲 [Clase 27 y 28](https://drive.google.com/file/d/1r3YfAZ1UESJNsQMyOPY74XjhKhH2H4DY/view?usp=sharing)
+   * Conexidad (k-conexidad)
+   * Conexidad líneal
+   * Conexidad local
+   * Teorema de Menger para vértices
+   * Teorema de Menger para aristas
+   * Flujos
+   * Ecuaciones de conservación
+   * Flujo máximo
+   * Corte de flujo y capacidad
+   * Teorema de Ford y Fulkenson
+   * Teorema de flujo-máximo-cortadura mínima
+  
